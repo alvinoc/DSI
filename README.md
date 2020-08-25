@@ -1,2 +1,2 @@
 # DSI
-*Repositório para cadeira de dsi 
+* Repositório para cadeira de dsi 
